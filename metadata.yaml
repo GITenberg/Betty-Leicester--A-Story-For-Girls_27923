@@ -1,0 +1,30 @@
+_repo: Betty-Leicester--A-Story-For-Girls_27923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+description: The book follows the day-to-day life of a sweet, fifteen-year-old girl
+  who spends a summer in a New England neighborhood, and impresses many people with
+  her helpful, sunny nature. In the vein of Little Women, this delightful book is
+  ideal for girls of all ages.
+gutenberg_issued: '2009-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+title: 'Betty Leicester: A Story For Girls'
+url: http://www.gutenberg.org/ebooks/27923
